@@ -17,6 +17,12 @@ Tested with JMeter — 200 concurrent threads, 60 seconds sustained load.
 | Max latency | 49ms | 37ms |
 | Error rate | 0.01% | 0.01% |
 
+rawttp
+<img width="1568" height="130" alt="preview" src="https://github.com/user-attachments/assets/064b2e2a-5b8f-4c65-b9be-24e8d68cb6ee" />
+
+nginx 
+<img width="1568" height="130" alt="preview-2" src="https://github.com/user-attachments/assets/4cfd4db3-9f41-4be0-b1f0-cae2ac012d06" />
+
 > rawttp outperforms nginx on throughput on the same machine. nginx has lower max latency under extreme load — expected for a C server with 20 years of optimization.
 
 ---
