@@ -1,3 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.7+-blue?logo=python)](https://python.org)
+[![AsyncIO](https://img.shields.io/badge/Async-asyncio-3478F6?logo=python)](https://docs.python.org/3/library/asyncio.html)
+[![Benchmark](https://img.shields.io/badge/Performance-64k%20req%2Fsec-brightgreen)](https://github.com/muhammadaminusmonov/rawttp#benchmark)
+[![No Dependencies](https://img.shields.io/badge/Dependencies-None-lightgrey)](https://github.com/muhammadaminusmonov/rawttp)
 # rawttp
 
 A lightweight HTTP/1.1 server built from raw TCP sockets — no frameworks, no dependencies, just Python and `asyncio`.
